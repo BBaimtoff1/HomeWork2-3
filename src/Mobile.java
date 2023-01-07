@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Telephon {
+public abstract class Mobile implements Printable {
+
+
+    public abstract void print();
 }
